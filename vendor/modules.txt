@@ -67,5 +67,5 @@ gopkg.in/square/go-jose.v2
 gopkg.in/square/go-jose.v2/cipher
 gopkg.in/square/go-jose.v2/json
 gopkg.in/square/go-jose.v2/jwt
-# stash.us.cray.com/HMS/hms-securestorage v1.8.0
+# stash.us.cray.com/HMS/hms-securestorage v1.11.0
 stash.us.cray.com/HMS/hms-securestorage
