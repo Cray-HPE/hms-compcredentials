@@ -25,7 +25,7 @@ package compcredentials
 import (
 	"fmt"
 	"reflect"
-	sstorage "stash.us.cray.com/HMS/hms-securestorage"
+	sstorage "github.com/Cray-HPE/hms-securestorage"
 	"testing"
 )
 
