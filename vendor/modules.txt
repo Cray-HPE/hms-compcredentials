@@ -1,3 +1,6 @@
+# github.com/Cray-HPE/hms-securestorage v1.12.2
+## explicit
+github.com/Cray-HPE/hms-securestorage
 # github.com/golang/snappy v0.0.1
 github.com/golang/snappy
 # github.com/hashicorp/errwrap v1.0.0
@@ -69,6 +72,3 @@ gopkg.in/square/go-jose.v2
 gopkg.in/square/go-jose.v2/cipher
 gopkg.in/square/go-jose.v2/json
 gopkg.in/square/go-jose.v2/jwt
-# stash.us.cray.com/HMS/hms-securestorage v1.11.0
-## explicit
-stash.us.cray.com/HMS/hms-securestorage
