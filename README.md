@@ -14,7 +14,7 @@ including admin account usernames and passwords.
 ## Data Types
 
 There are two main data types used with this package; one is the object 
-containing the plubming information for the back-end storage, and the other
+containing the plumbing information for the back-end storage, and the other
 is the data structure containing the actual credential information.
 
 This package implements an interface for the following data type.
@@ -55,7 +55,7 @@ multiple CompCredStore handles will be needed.
 
 ## Protecting Sensitive Data
 
-Theh CompCredStore interface will always hide sensitive info when asked to
+The CompCredStore interface will always hide sensitive info when asked to
 print things.   As a design practice, NEVER print out any sensitive information
 in any source code, and NEVER store any sensitive information in source code!
 
