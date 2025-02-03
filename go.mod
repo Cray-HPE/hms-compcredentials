@@ -30,3 +30,5 @@ require (
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
 	gopkg.in/square/go-jose.v2 v2.3.1 // indirect
 )
+
+replace gopkg.in/square/go-jose.v2 => gopkg.in/go-jose/go-jose.v2 v2.3.1
