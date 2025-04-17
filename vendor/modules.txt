@@ -1,4 +1,4 @@
-# github.com/Cray-HPE/hms-securestorage v1.16.1-0.20250417144009-0e19d09317c7
+# github.com/Cray-HPE/hms-securestorage v1.16.1-0.20250417144545-9fd2782ce8f3
 ## explicit; go 1.24.0
 github.com/Cray-HPE/hms-securestorage
 # github.com/cenkalti/backoff/v4 v4.3.0

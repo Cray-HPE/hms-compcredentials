@@ -1,5 +1,5 @@
-github.com/Cray-HPE/hms-securestorage v1.16.1-0.20250417144009-0e19d09317c7 h1:Sn5W3a/pSWJ2KlESTXCR0iHTLHum4Nr40Do4xtW7YrE=
-github.com/Cray-HPE/hms-securestorage v1.16.1-0.20250417144009-0e19d09317c7/go.mod h1:XYnykBCkkdWCLsMNjoMNmYfFn9UDFc02UN16k8ZHktE=
+github.com/Cray-HPE/hms-securestorage v1.16.1-0.20250417144545-9fd2782ce8f3 h1:TgEEcmgQH6TGN9/l7z0ORYilsbaugrahihbNEe3zjMQ=
+github.com/Cray-HPE/hms-securestorage v1.16.1-0.20250417144545-9fd2782ce8f3/go.mod h1:XYnykBCkkdWCLsMNjoMNmYfFn9UDFc02UN16k8ZHktE=
 github.com/cenkalti/backoff/v4 v4.3.0 h1:MyRJ/UdXutAwSAT+s3wNd7MfTIcy71VQueUuFK343L8=
 github.com/cenkalti/backoff/v4 v4.3.0/go.mod h1:Y3VNntkOUPxTVeUxJ/G5vcM//AlwfmyYozVcomhLiZE=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
