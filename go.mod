@@ -3,7 +3,7 @@ module github.com/Cray-HPE/hms-compcredentials
 go 1.24.0
 
 require (
-	github.com/Cray-HPE/hms-securestorage v1.16.1-0.20250417144545-9fd2782ce8f3
+	github.com/Cray-HPE/hms-securestorage v1.17.0
 	github.com/sirupsen/logrus v1.9.3
 )
 
